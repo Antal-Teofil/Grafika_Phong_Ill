@@ -6,6 +6,7 @@ using Silk.NET.OpenGL.Extensions.ImGui;
 using Silk.NET.Windowing;
 using System.Numerics;
 namespace Szeminarium1_24_02_17_2
+//Vegleges
 {
     internal static class Program
     {
